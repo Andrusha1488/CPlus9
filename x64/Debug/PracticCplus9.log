@@ -1,0 +1,3 @@
+﻿  PracticCplus9.cpp
+C:\Users\Admin\source\repos\PracticCplus9\PracticCplus9\PracticCplus9.cpp(10,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PracticCplus9.vcxproj -> C:\Users\Admin\source\repos\PracticCplus9\x64\Debug\PracticCplus9.exe
